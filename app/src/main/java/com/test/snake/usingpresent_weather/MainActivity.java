@@ -62,4 +62,6 @@ public class MainActivity extends AppCompatActivity {
             e.printStackTrace();
         }
     }
+
+    // 미션 : 투명 Activity로 아이콘과 날씨정보만 나오게 한다(그럴 듯한 디자인을 해보자!).
 }
